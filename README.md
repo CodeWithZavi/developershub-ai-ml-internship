@@ -141,4 +141,3 @@ DevelopersHub Corporation AI/ML Engineering Intern
 
 ## License
 
-This project is for educational purposes as part of the DevelopersHub Corporation Internship Program.
