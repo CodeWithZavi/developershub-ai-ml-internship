@@ -25,12 +25,15 @@ transformers datasets accelerate torch tensorboard streamlit jupyter
 ```
 
 ## Run
+
+### Jupyter Notebook
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/mental_health_chatbot.ipynb
 ```
 
-Or run the Streamlit app:
+### Streamlit Web App
+After training the model in the notebook, run:
 ```bash
 streamlit run app.py
 ```
